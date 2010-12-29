@@ -1,4 +1,6 @@
 JobManager::Application.routes.draw do
+  resources :domains
+
   resources :contacts
 
   resources :companies
