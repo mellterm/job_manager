@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  domain_id: 1
+  notes: MyText
+  deadline: 2010-12-29
+  directory: MyString
+  company_id: 1
+
+two:
+  name: MyString
+  domain_id: 1
+  notes: MyText
+  deadline: 2010-12-29
+  directory: MyString
+  company_id: 1
