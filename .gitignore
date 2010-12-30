@@ -1,4 +1,11 @@
 .bundle
 db/*.sqlite3
 log/*.log
+*.log
+Gemfile.lock
+doc/api
+doc/app
+*.swp
+*~
+tmp/*
 tmp/**/*
